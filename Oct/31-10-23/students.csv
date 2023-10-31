@@ -1,0 +1,12 @@
+id,first_name,last_name,ethnicity,gender,hs_gpa,hs_city,hs_state,entry_age
+111111,John,Doe,Hispanic,M,2.71,Albuquerque,New Mexico,17.9
+111112,Jane,Smith,Hispanic,F,3.73,New York,New York,18.1
+111113,Sarah,Thomas,Hispanic,M,2.64,Pheonix,Arizona,17.6
+111114,Frank,Brown,Race/ethnicity unknown,M,3.68,Pheonix,Arizona,19
+111115,Mike,Davis,White,F,3.46,Seattle,Washington,18.2
+111116,Jennifer,Wilson,Asian,M,4.24,Denver,Colorado,18.5
+111117,Jessica,Garcia,White,F,,Austin,Texas,18.8
+111114,Frank,Brown,Race/ethnicity unknown,M,3.68,Pheonix,Arizona,19
+111118,Fred,Clark,Hispanic,F,2.54,Denver,Colorado,19.2
+111119,Bob,Lopez,White,F,3.24,Denver,Colorado,18.5
+111112,Jane,Smith,Hispanic,F,3.73,New York,New York,18.1
