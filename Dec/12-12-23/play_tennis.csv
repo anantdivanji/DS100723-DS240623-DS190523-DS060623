@@ -1,0 +1,19 @@
+day,outlook,temp,humidity,wind,play,,,Problem statement
+D1,Sunny,Hot,High,Weak,No,,,
+D2,Sunny,Hot,High,Strong,No,,,"Based on the outlook, temp, humidity, wind predict whether the person will be interested to play tennis or not."
+D3,Overcast,Hot,High,Weak,Yes,,,"Play is target, since it is dependent on all other variables"
+D4,Rain,Mild,High,Weak,Yes,,,"Outlook, temp, humidity, wind are independent variables"
+D5,Rain,Cool,Normal,Weak,Yes,,,
+D6,Rain,Cool,Normal,Strong,No,,,
+D7,Overcast,Cool,Normal,Strong,Yes,,,Decision Tree:
+D8,Sunny,Mild,High,Weak,No,,,1. CART - Classification and Regression Trees - uses Gini index as  a cost function
+D9,Sunny,Cool,Normal,Weak,Yes,,,2. ID3 - Iterative Dichotomizer 3 - uses Entropy and Information Gain as a cost function
+D10,Rain,Mild,Normal,Weak,Yes,,,
+D11,Sunny,Mild,Normal,Strong,Yes,,,CART - used for Both Classification and Regression
+D12,Overcast,Mild,High,Strong,Yes,,,ID3 - used only for Classification
+D13,Overcast,Hot,Normal,Weak,Yes,,,
+D14,Rain,Mild,High,Strong,No,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+D15,Sunny,Hot,Normal,Weak,Yes/ No,,,
